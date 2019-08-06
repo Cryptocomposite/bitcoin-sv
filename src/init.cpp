@@ -53,6 +53,7 @@
 #include <cstdint>
 #include <cstdio>
 #include <memory>
+#include <inttypes.h>
 
 #ifndef WIN32
 #include <signal.h>
